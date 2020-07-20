@@ -49,12 +49,15 @@ Configuring the SDK
 > To set those variables, use this code:
 
 ``` {.highlight .csharp .tab-csharp style=""}
-//Set The Game Name
-public static string GameName="";
+//Set The Game Name*
+public static string GAME_NAME = "";
 //Set Scene name of game , Entry point to the game
-public static string GameSceneName="";
-//Set The Game Id shown in your Dashboard ,you can't start without   setting the correct id
-internal static string gameId="";
+public static string GAME_SCENE_NAME = "";
+public static string EDITOR_ID;
+//The game level number used for your matchmaking. Otherwise, keep it null.
+public static int? GAME_LEVEL = null;
+//Set The Game Id shown in your Dashboard ,you can't start without setting the correct id
+internal static string GAME_ID = "";
 ```
 
 > Set the game URLs:
