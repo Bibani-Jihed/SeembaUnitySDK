@@ -78,10 +78,10 @@ Fill the needed informations:
 
 Make sure that your game is configured on the dashboard side.
 
-1.  Change the attribute `GameName` value with the name of your game .
-2.  Change the attribute `GameSceneName` value with the name of your
+1.  Change the attribute `GAME_NAME` value with the name of your game .
+2.  Change the attribute `GAME_SCENE_NAME` value with the name of your
     game scene.
-3.  Change the attribute `gameId` value with the ID of your game
+3.  Change the attribute `GAME_ID` value with the ID of your game
     indicated on the dashboard.
 
 4.  Change the attribute `GAME_ANDROID_URL` value with your Google Play
