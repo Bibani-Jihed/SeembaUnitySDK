@@ -48,7 +48,7 @@ Configuring the SDK
 
 > To set those variables, use this code:
 
-``` {.highlight .csharp .tab-csharp style=""}
+```csharp
 //Set The Game Name*
 public static string GAME_NAME = "";
 //Set Scene name of game , Entry point to the game
@@ -62,14 +62,14 @@ internal static string GAME_ID = "";
 
 > Set the game URLs:
 
-``` {.highlight .csharp .tab-csharp style=""}
+```csharp
 public static string GAME_ANDROID_URL ="";
 public static string GAME_IOS_URL = "";
 ```
 
 > Configure the score sending:
 
-``` {.highlight .csharp .tab-csharp style=""}
+```csharp
 Seemba seemba = new Seemba ();
 seemba.setResult (int score);
 ```
