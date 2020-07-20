@@ -98,17 +98,12 @@ Adding the tournament and duels mode to the game
 
 Add an “eSport tournament” button to your game menu
 
-Step 4
-
 Building
 ========
 
 Select all the Unity Scenes in the 'Scene' folder from above and drag
 them over to the Build Settings Panel and drop them in the 'Scenes In
-Build' area. Drag your game menu scene to be in order position 0 as
-below.
-
-Step 5
+Build' area.
 
 Troubleshooting
 ===============
