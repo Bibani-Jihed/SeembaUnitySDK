@@ -1,22 +1,17 @@
-[NAV
-![Navbar](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/navbar.png)](https://docs.seemba.com/#)
 
-![Logo](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/logo.png)
 
-[csharp](https://docs.seemba.com/#)
-
--   [Introduction](https://docs.seemba.com/#introduction)
+-   [Introduction]
 -   [Downloading the Seemba
-    SDK](https://docs.seemba.com/#downloading-the-seemba-sdk)
--   [Importing the SDK](https://docs.seemba.com/#importing-the-sdk)
--   [Configuring the SDK](https://docs.seemba.com/#configuring-the-sdk)
+    SDK]
+-   [Importing the SDK]
+-   [Configuring the SDK]
 -   [Adding the tournament and duels mode to the
-    game](https://docs.seemba.com/#adding-the-tournament-and-duels-mode-to-the-game)
--   [Building](https://docs.seemba.com/#building)
--   [Troubleshooting](https://docs.seemba.com/#troubleshooting)
+    game]
+-   [Building]
+-   [Troubleshooting]
 
 -   [Sign Up for a Developer
-    Key](https://dashboard.seemba.com/index.html)
+    Key]
 -   [Seemba](https://seemba.com/), All Rights Reserved
 
 Introduction
@@ -39,17 +34,17 @@ then 'Custom Package…'. Navigate to the directory where you downloaded
 the Seemba for Unity SDK and select `SeembaSDK.unitypackage`.
 
 ![Step
-1](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/step1.png)
+1]
 
 Import all of the assets in the package.
 
 ![Step
-2](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/step2.png)
+2]
 
 Open `./SeembaSDK/Script/Manager/GamesManager.cs`
 
 ![Step
-3](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/step3.png)
+3]
 
 Configuring the SDK
 ===================
@@ -104,7 +99,7 @@ Adding the tournament and duels mode to the game
 Add an “eSport tournament” button to your game menu
 
 ![Step
-4](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/step4.png)
+4]
 
 Building
 ========
@@ -115,7 +110,7 @@ Build' area. Drag your game menu scene to be in order position 0 as
 below.
 
 ![Step
-5](./Introduction%20–%20Seemba%20SDK%20Integration%20Guide_files/step5.png)
+5]
 
 Troubleshooting
 ===============
