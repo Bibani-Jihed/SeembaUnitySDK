@@ -33,18 +33,15 @@ In the Unity Editor, select from the menu 'Assets', 'Import Package' and
 then 'Custom Package…'. Navigate to the directory where you downloaded
 the Seemba for Unity SDK and select `SeembaSDK.unitypackage`.
 
-![Step
-1]
+Step 1
 
 Import all of the assets in the package.
 
-![Step
-2]
+Step 2
 
 Open `./SeembaSDK/Script/Manager/GamesManager.cs`
 
-![Step
-3]
+Step 3
 
 Configuring the SDK
 ===================
@@ -98,8 +95,7 @@ Adding the tournament and duels mode to the game
 
 Add an “eSport tournament” button to your game menu
 
-![Step
-4]
+Step 4
 
 Building
 ========
@@ -109,8 +105,7 @@ them over to the Build Settings Panel and drop them in the 'Scenes In
 Build' area. Drag your game menu scene to be in order position 0 as
 below.
 
-![Step
-5]
+Step 5
 
 Troubleshooting
 ===============
